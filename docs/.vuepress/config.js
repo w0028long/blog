@@ -27,7 +27,7 @@ module.exports = {
     placeholder: '搜搜看', //搜索框的默认文章
     searchReply: '什么都没搜到，试一下其它搜索词~',
     author: '公牛开源组织博客', //侧边栏的设置
-    email: 'wutongci@hotmail.com',
+    email: 'open@bullteam.cn',
     pagination: '5', //每一页显示的文章个数
     avatar: '/avatar.png', //头像地址
     brand: '/brand.jpg', //头像背景图片地址
@@ -58,7 +58,7 @@ module.exports = {
       home: '主页',
       all: '时间归档',
       github: 'Github',
-      about: '自我介绍'
+      about: '团队介绍'
     }
   }
 };

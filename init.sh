@@ -4,7 +4,7 @@
 set -e
 
 # 初始化一个仓库,用来保存以后新建文章的时间,
-git init
+# git init
 
 # 下载依赖,实在没有cnpm就该成npm吧
 cnpm i
